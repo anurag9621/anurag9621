@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag9621&label=Profile%20views&color=0e75b6&style=flat" alt="anurag9621" /> </p>
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Django**
 
 - 📫 How to reach me **ap.web.cs@gmail.com**
 
